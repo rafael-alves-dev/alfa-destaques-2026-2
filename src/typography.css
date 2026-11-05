@@ -1,0 +1,67 @@
+/* Readability pass: preserve V3 artwork, colors, data and motion. */
+.v3 {
+  --type-secondary: .875rem;
+  --type-body: 1rem;
+  --type-name: 1.0625rem;
+  font-size: var(--type-body);
+}
+.v3 :is(p, small, button, select, summary) { line-height: 1.6; }
+.v3 :is(h2, h3) { text-wrap: balance; }
+.v3 p { text-wrap: pretty; }
+.v3 .section-title > div { min-width: 0; }
+.v3 .section-title p { font-size: var(--type-body); max-width: 65ch; }
+.v3 :is(.institution, .hero-message, .closing p) { font-size: 1.125rem; }
+.v3 :is(.primary, .celebrate, .explore-subject, select) { font-size: var(--type-body); }
+.v3 :is(.hero-award-note p, .hero-bottom, .hero-bottom a,
+  .metric-card p, .cohort-heading small, .cohort-caption, .cohort-caption > span,
+  .tab-count, .group-meta, .tie-caption, .score small, .pedestal small,
+  .celebration-line p, .subject-toolbar p, .subject-toolbar label > span,
+  .challenge-context, .error-caption, .error-caption > span, .correct-answer > span,
+  .section-method, .achievement-context, .achievement-top, .achievement-caption,
+  .pedagogy-note, .achievements details, .achievements details p,
+  .closing-signature, .closing a, footer p, footer p span, .internal) {
+  font-size: var(--type-secondary);
+  line-height: 1.65;
+}
+.v3 :is(.challenge-teacher, .subject-teacher) { font-size: var(--type-body); line-height: 1.6; }
+.v3 :is(.metric-card h3, .cohort-heading b) { font-size: var(--type-body); line-height: 1.45; }
+.v3 :is(.challenge-card h3, .achievement-card h3) { font-size: 1.25rem; line-height: 1.4; }
+.v3 .names .honoree-band { font-size: var(--type-name); line-height: 1.6; }
+.v3 .place-1 .names .honoree-band { font-size: 1.125rem; }
+.v3 .honoree-band > span:last-child { min-width: 0; overflow-wrap: anywhere; }
+.v3 .class-tabs button { font-size: var(--type-secondary); min-width: 0; }
+.v3 .place-top { font-size: var(--type-body); }
+.v3 .header nav { font-size: var(--type-secondary); gap: 18px; }
+.v3 .header nav a { display: inline-flex; align-items: center; min-height: 44px; }
+.v3 .polo-seal small { font-size: var(--type-secondary); line-height: 1.2; letter-spacing: .08em; }
+.v3 .cohort-caption { flex-wrap: wrap; gap: 8px 14px; }
+.v3 .group-meta { flex-wrap: wrap; }
+.v3 .group-meta > span:first-child { max-width: 100%; }
+.v3 .correct-answer > span { min-width: 0; }
+.v3 .correct-answer strong, .v3 .tie-caption svg, .v3 .celebration-line svg { flex-shrink: 0; }
+.v3 .achievements details p { max-width: 70ch; }
+.v3 .closing-signature { max-width: 45ch; }
+.v3 .hero-bottom { gap: 12px; letter-spacing: .025em; }
+@media (min-width: 601px) and (max-width: 1100px) {
+  .v3 .metric-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+  .v3 .header { height: auto; min-height: 94px; flex-wrap: wrap; padding-block: 16px; }
+  .v3 .header nav { order: 4; width: 100%; justify-content: center; margin: 0; flex-wrap: wrap; }
+  .v3 .header nav a { display: inline-flex; }
+  .v3 .hero-composition { padding-top: 40px; }
+  .v3 .podium { grid-template-columns: 1fr; gap: 65px; }
+  .v3 .podium-place { width: 100%; max-width: 520px; margin-inline: auto; order: initial; }
+  .v3 .challenge-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 600px) {
+  .v3 .header { gap: 10px; }
+  .v3 .header-polo { padding-left: 10px; }
+  .v3 .primary { max-width: 100%; gap: 16px; padding-inline: 18px; }
+  .v3 .hero-bottom { position: relative; inset: auto; margin-top: 28px; align-items: flex-start; }
+  .v3 .v3-hero { padding-bottom: 28px; }
+  .v3 .hero-bottom > span { flex-wrap: wrap; gap: 8px; }
+  .v3 .class-tabs { width: 100%; }
+  .v3 .class-tabs button { padding-inline: 5px; overflow-wrap: anywhere; }
+  .v3 .metric-card { padding-inline: 16px; }
+  .v3 .metric-card h3 { overflow-wrap: anywhere; }
+  .v3 .celebration-line p { align-items: flex-start; }
+}

@@ -64,3 +64,7 @@ Contadores de 0 ao valor real ao entrar em vista. Círculos SVG com strokeDashof
 ## Do's and Don'ts
 
 Preservar src/data.json byte a byte. Não confundir aproveitamento completo com dados do Top 3. Respeitar Web II de cada turno e empates. Não alegar aprovação escolar, vínculo com a Prefeitura ou marca oficial de Sarzedo. Não publicar automaticamente. Validar animações visualmente e medir estados antes/durante/depois no navegador, além de compilar.
+
+## Escala de legibilidade (revisão 2026-11)
+
+A camada typography.css aplica 14px (0.875rem) aos metadados, 16px (1rem) ao corpo e aos controles, 17px (1.0625rem) aos nomes, 18px (1.125rem) aos nomes de primeiro lugar e mensagens principais, e 20px (1.25rem) aos títulos de disciplina. Entrelinhas de 1.4 nos títulos e 1.6–1.65 nos textos. As famílias e os pesos locais existentes permanecem. A arte decorativa mantém sua escala. Esta revisão substitui os mínimos antigos de 9–13px para conteúdo informativo.
