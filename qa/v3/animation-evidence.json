@@ -1,0 +1,70 @@
+{
+  "revealBefore": {
+    "opacity": "0.3",
+    "transform": "matrix(1, 0, 0, 1, 0, 44)"
+  },
+  "counterDuring": "38",
+  "counterAfter": "70",
+  "revealAfter": {
+    "opacity": "1",
+    "transform": "none"
+  },
+  "barBefore": 0,
+  "barDuring": 71.75,
+  "barAfter": 261.6875,
+  "nameSequence": [
+    [
+      1,
+      1,
+      0.2
+    ],
+    [
+      1,
+      1,
+      0.2
+    ],
+    [
+      1,
+      1,
+      0.2
+    ],
+    [
+      1,
+      1,
+      0.2
+    ],
+    [
+      1,
+      1,
+      0.719808
+    ],
+    [
+      1,
+      1,
+      0.890889
+    ],
+    [
+      1,
+      1,
+      0.964135
+    ],
+    [
+      1,
+      1,
+      0.98776
+    ],
+    [
+      1,
+      1,
+      0.997549
+    ],
+    [
+      1,
+      1,
+      0.999729
+    ]
+  ],
+  "touchBefore": "none",
+  "touchDuring": "matrix(0.976352, 0, 0, 0.976352, 0, 0)",
+  "keyboardFocus": "P"
+}

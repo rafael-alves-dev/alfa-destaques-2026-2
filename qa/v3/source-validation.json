@@ -1,0 +1,92 @@
+[
+  {
+    "turma": "Integral",
+    "disciplina": "Empreendedorismo",
+    "aproveitamento": 83.9506,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Integral",
+    "disciplina": "Segurança da Informação",
+    "aproveitamento": 90.1235,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Integral",
+    "disciplina": "Programação Móvel II",
+    "aproveitamento": 81.4815,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Integral",
+    "disciplina": "Programação Web II",
+    "aproveitamento": 65.4321,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Integral",
+    "disciplina": "Projeto Integrador",
+    "aproveitamento": 94.4444,
+    "questoesTop": 2
+  },
+  {
+    "turma": "Noturno T1",
+    "disciplina": "Empreendedorismo",
+    "aproveitamento": 79.7101,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T1",
+    "disciplina": "Segurança da Informação",
+    "aproveitamento": 88.4058,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T1",
+    "disciplina": "Programação Móvel II",
+    "aproveitamento": 93.4783,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T1",
+    "disciplina": "Programação Web II",
+    "aproveitamento": 71.7391,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T1",
+    "disciplina": "Projeto Integrador",
+    "aproveitamento": 97.8261,
+    "questoesTop": 2
+  },
+  {
+    "turma": "Noturno T2",
+    "disciplina": "Empreendedorismo",
+    "aproveitamento": 85.0,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T2",
+    "disciplina": "Segurança da Informação",
+    "aproveitamento": 85.0,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T2",
+    "disciplina": "Programação Móvel II",
+    "aproveitamento": 90.0,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T2",
+    "disciplina": "Programação Web II",
+    "aproveitamento": 70.8333,
+    "questoesTop": 3
+  },
+  {
+    "turma": "Noturno T2",
+    "disciplina": "Projeto Integrador",
+    "aproveitamento": 100.0,
+    "questoesTop": 2
+  }
+]

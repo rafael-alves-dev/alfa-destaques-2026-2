@@ -1,0 +1,492 @@
+{
+  "total": 70,
+  "mean": 12.364285714285714,
+  "maxScore": 15,
+  "honorees": 24,
+  "perfect": 6,
+  "classes": [
+    {
+      "id": "integral",
+      "name": "Integral",
+      "count": 27,
+      "mean": 11.944444444444445,
+      "podium": [
+        {
+          "rank": 1,
+          "score": 15.0,
+          "names": [
+            "Lívia H.O."
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 14.25,
+          "names": [
+            "Jhancarlos J.R.B.",
+            "Júlio M.Q.B.F.",
+            "Maria C.S.S."
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 13.5,
+          "names": [
+            "Ana B.G.T.",
+            "Davi L.S.M.M.",
+            "Gustavo B.F.M."
+          ]
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Empreendedorismo",
+          "teacher": "Geisa",
+          "range": [
+            1,
+            3
+          ],
+          "accuracy": 83.9506,
+          "hardest": [
+            {
+              "question": 1,
+              "errors": 12,
+              "answer": "C"
+            },
+            {
+              "question": 2,
+              "errors": 1,
+              "answer": "A"
+            },
+            {
+              "question": 3,
+              "errors": 0,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Segurança da Informação",
+          "teacher": "Rafaela",
+          "range": [
+            4,
+            6
+          ],
+          "accuracy": 90.1235,
+          "hardest": [
+            {
+              "question": 6,
+              "errors": 5,
+              "answer": "D"
+            },
+            {
+              "question": 4,
+              "errors": 2,
+              "answer": "B"
+            },
+            {
+              "question": 5,
+              "errors": 1,
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "name": "Programação Móvel II",
+          "teacher": "Paulo",
+          "range": [
+            7,
+            12
+          ],
+          "accuracy": 81.4815,
+          "hardest": [
+            {
+              "question": 8,
+              "errors": 10,
+              "answer": "D"
+            },
+            {
+              "question": 9,
+              "errors": 8,
+              "answer": "A"
+            },
+            {
+              "question": 7,
+              "errors": 5,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Programação Web II",
+          "teacher": "Rafaela",
+          "range": [
+            13,
+            18
+          ],
+          "accuracy": 65.4321,
+          "hardest": [
+            {
+              "question": 14,
+              "errors": 19,
+              "answer": "C"
+            },
+            {
+              "question": 17,
+              "errors": 15,
+              "answer": "C"
+            },
+            {
+              "question": 15,
+              "errors": 10,
+              "answer": "D"
+            }
+          ]
+        },
+        {
+          "name": "Projeto Integrador",
+          "teacher": "Rafael",
+          "range": [
+            19,
+            20
+          ],
+          "accuracy": 94.4444,
+          "hardest": [
+            {
+              "question": 20,
+              "errors": 2,
+              "answer": "D"
+            },
+            {
+              "question": 19,
+              "errors": 1,
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t1",
+      "name": "Noturno T1",
+      "count": 23,
+      "mean": 12.684782608695652,
+      "podium": [
+        {
+          "rank": 1,
+          "score": 15.0,
+          "names": [
+            "Alvaro B.B.",
+            "Arthur Y.C.S.",
+            "Cristofer R.O."
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 14.25,
+          "names": [
+            "Jonathan G.S.F.",
+            "Vitor C.",
+            "Yuri A.L.R."
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 13.5,
+          "names": [
+            "Pedro R.O.B.",
+            "Vinicius E.S.S."
+          ]
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Empreendedorismo",
+          "teacher": "Geisa",
+          "range": [
+            1,
+            3
+          ],
+          "accuracy": 79.7101,
+          "hardest": [
+            {
+              "question": 1,
+              "errors": 10,
+              "answer": "C"
+            },
+            {
+              "question": 2,
+              "errors": 2,
+              "answer": "A"
+            },
+            {
+              "question": 3,
+              "errors": 2,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Segurança da Informação",
+          "teacher": "Rafaela",
+          "range": [
+            4,
+            6
+          ],
+          "accuracy": 88.4058,
+          "hardest": [
+            {
+              "question": 6,
+              "errors": 4,
+              "answer": "D"
+            },
+            {
+              "question": 5,
+              "errors": 3,
+              "answer": "C"
+            },
+            {
+              "question": 4,
+              "errors": 1,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Programação Móvel II",
+          "teacher": "Paulo",
+          "range": [
+            7,
+            12
+          ],
+          "accuracy": 93.4783,
+          "hardest": [
+            {
+              "question": 8,
+              "errors": 3,
+              "answer": "D"
+            },
+            {
+              "question": 9,
+              "errors": 3,
+              "answer": "A"
+            },
+            {
+              "question": 7,
+              "errors": 2,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Programação Web II",
+          "teacher": "Rafael",
+          "range": [
+            13,
+            18
+          ],
+          "accuracy": 71.7391,
+          "hardest": [
+            {
+              "question": 17,
+              "errors": 15,
+              "answer": "A"
+            },
+            {
+              "question": 16,
+              "errors": 11,
+              "answer": "B"
+            },
+            {
+              "question": 18,
+              "errors": 5,
+              "answer": "C"
+            }
+          ]
+        },
+        {
+          "name": "Projeto Integrador",
+          "teacher": "Rafael",
+          "range": [
+            19,
+            20
+          ],
+          "accuracy": 97.8261,
+          "hardest": [
+            {
+              "question": 20,
+              "errors": 1,
+              "answer": "D"
+            },
+            {
+              "question": 19,
+              "errors": 0,
+              "answer": "C"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "t2",
+      "name": "Noturno T2",
+      "count": 20,
+      "mean": 12.5625,
+      "podium": [
+        {
+          "rank": 1,
+          "score": 15.0,
+          "names": [
+            "Guilherme R.N.",
+            "Gustavo R.N."
+          ]
+        },
+        {
+          "rank": 2,
+          "score": 14.25,
+          "names": [
+            "Bruna M.M.",
+            "Júlia S.S.",
+            "Núbia C.A.S."
+          ]
+        },
+        {
+          "rank": 3,
+          "score": 13.5,
+          "names": [
+            "Ana G.S.",
+            "Bryan C.L.",
+            "Daniel O.D.R.",
+            "Vânia J.P.C."
+          ]
+        }
+      ],
+      "subjects": [
+        {
+          "name": "Empreendedorismo",
+          "teacher": "Geisa",
+          "range": [
+            1,
+            3
+          ],
+          "accuracy": 85.0,
+          "hardest": [
+            {
+              "question": 1,
+              "errors": 9,
+              "answer": "C"
+            },
+            {
+              "question": 2,
+              "errors": 0,
+              "answer": "A"
+            },
+            {
+              "question": 3,
+              "errors": 0,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Segurança da Informação",
+          "teacher": "Rafaela",
+          "range": [
+            4,
+            6
+          ],
+          "accuracy": 85.0,
+          "hardest": [
+            {
+              "question": 6,
+              "errors": 5,
+              "answer": "D"
+            },
+            {
+              "question": 5,
+              "errors": 3,
+              "answer": "C"
+            },
+            {
+              "question": 4,
+              "errors": 1,
+              "answer": "B"
+            }
+          ]
+        },
+        {
+          "name": "Programação Móvel II",
+          "teacher": "Paulo",
+          "range": [
+            7,
+            12
+          ],
+          "accuracy": 90.0,
+          "hardest": [
+            {
+              "question": 7,
+              "errors": 4,
+              "answer": "B"
+            },
+            {
+              "question": 8,
+              "errors": 4,
+              "answer": "D"
+            },
+            {
+              "question": 9,
+              "errors": 3,
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "name": "Programação Web II",
+          "teacher": "Rafael",
+          "range": [
+            13,
+            18
+          ],
+          "accuracy": 70.8333,
+          "hardest": [
+            {
+              "question": 17,
+              "errors": 12,
+              "answer": "A"
+            },
+            {
+              "question": 16,
+              "errors": 10,
+              "answer": "B"
+            },
+            {
+              "question": 14,
+              "errors": 5,
+              "answer": "A"
+            }
+          ]
+        },
+        {
+          "name": "Projeto Integrador",
+          "teacher": "Rafael",
+          "range": [
+            19,
+            20
+          ],
+          "accuracy": 100.0,
+          "hardest": [
+            {
+              "question": 19,
+              "errors": 0,
+              "answer": "C"
+            },
+            {
+              "question": 20,
+              "errors": 0,
+              "answer": "D"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "name": "desktop",
+    "width": 1440,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 280.275,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.639215",
+      "transform": "matrix(1, 0, 0, 1, 0, -6.66334)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "desktop",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  },
+  {
+    "name": "mobile",
+    "width": 390,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 250.989,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.0909972",
+      "transform": "matrix(1, 0, 0, 1, 0, -16.6272)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "mobile",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  },
+  {
+    "name": "mobile-360",
+    "width": 360,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 254.674,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.0907629",
+      "transform": "matrix(1, 0, 0, 1, 0, -16.3974)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "mobile-360",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  },
+  {
+    "name": "mobile-430",
+    "width": 430,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 254.985,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.111033",
+      "transform": "matrix(1, 0, 0, 1, 0, -16.2232)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "mobile-430",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  },
+  {
+    "name": "tablet",
+    "width": 768,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 257.5,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.0734715",
+      "transform": "matrix(1, 0, 0, 1, 0, -16.6972)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "tablet",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  },
+  {
+    "name": "small-mobile",
+    "width": 320,
+    "overflow": false,
+    "errors": [],
+    "counts": [
+      7,
+      8,
+      9
+    ],
+    "bandsVisible": 7,
+    "ringBefore": 282.743,
+    "ringDuring": 248.584,
+    "ringAfter": 157.08,
+    "swapDuring": {
+      "opacity": "0.089369",
+      "transform": "matrix(1, 0, 0, 1, 0, -16.4183)"
+    },
+    "pausedAnimations": 0
+  },
+  {
+    "name": "small-mobile",
+    "reducedMotion": true,
+    "reducedOffset": 157.08
+  }
+]
