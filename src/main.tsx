@@ -10,6 +10,7 @@ import '@fontsource/dm-sans/latin-400.css';
 import '@fontsource/dm-sans/latin-600.css';
 import './style.css';
 import './v3.css';
+import './typography.css';
 import data from './data.json';
 function App(){
  const [selected,setSelected]=useState(0),[subject,setSubject]=useState(0),[paused,setPaused]=useState(false),[compact,setCompact]=useState(false);
